@@ -6,5 +6,3 @@ date: January 1, 2023
 output: rmarkdown::github_document
 ---
 
-
-ok boys
