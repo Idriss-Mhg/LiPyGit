@@ -1,7 +1,9 @@
 ---
-
-hey guys
-
+title: "TD1"
+author: Idriss Mahgoun
+date: January 1, 2023
+output: github_document
 ---
+
 
 ok boys
